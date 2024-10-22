@@ -1,6 +1,6 @@
-# Project Title
+# Supply Stream
 
-A brief description of your project and its purpose.
+SupplyStream is a user-friendly application that helps Food Bank Guadalajara manage inventory, donations, and distribution. It streamlines operations with an intuitive interface, making it easy for staff to track resources and optimize processes. With reporting features, SupplyStream enhances decision-making, supporting the mission to fight hunger.
 
 ## Table of Contents
 
